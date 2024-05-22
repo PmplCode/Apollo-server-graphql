@@ -1,0 +1,18 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "Graph-QL Server exercise",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1"
+  }
+}
